@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T19:13:31.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="i09Jp_oE66ACWh1t50LA" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-18T20:02:37.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="3ZruQ3BK1RbV1I2gIcjS" version="14.6.1" type="github">
   <diagram id="CmpFnxPh7Teqznxv9rn2" name="Page-1">
     <mxGraphModel dx="2091" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,6 +14,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8NObH_SKtU-RBRFg98Fc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-2" target="8NObH_SKtU-RBRFg98Fc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-2" target="8NObH_SKtU-RBRFg98Fc-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8NObH_SKtU-RBRFg98Fc-2" value="Tono: Então que te posso servir hoje?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -96,6 +99,27 @@
         </mxCell>
         <mxCell id="8NObH_SKtU-RBRFg98Fc-33" value="Game Over" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-35" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-35" target="8NObH_SKtU-RBRFg98Fc-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-35" value="PP tenta roubar o Tono" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-37" target="8NObH_SKtU-RBRFg98Fc-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-37" value="Tono: Óh meu menino que tu achas que estás a fazer? Achas que sou alguma criança? Tu já vais ver o que te vai acontecer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="440" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-39" target="8NObH_SKtU-RBRFg98Fc-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-39" value="PP preso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-41" value="Game Over" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
