@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T19:42:40.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" version="14.6.1" etag="MwNaRcSc5xZpugUYkWNj" type="github"><diagram id="3E6-ObcN-pQdGT7I98cd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-18T19:56:20.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="SjhsiZN8vJb6QFBRXnZD" version="14.6.1" type="github">
+  <diagram id="3E6-ObcN-pQdGT7I98cd" name="Page-1">
+    <mxGraphModel dx="2091" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lyfMo7Ee5nbfENFUyzH-1" target="8lyfMo7Ee5nbfENFUyzH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-1" value="Dealer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lyfMo7Ee5nbfENFUyzH-2" target="8lyfMo7Ee5nbfENFUyzH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lyfMo7Ee5nbfENFUyzH-2" target="8lyfMo7Ee5nbfENFUyzH-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lyfMo7Ee5nbfENFUyzH-2" target="8lyfMo7Ee5nbfENFUyzH-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-2" value="Baião: Então, muito bom dia meu caro companheiro que lhe posso fornecer hoje?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="180" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lyfMo7Ee5nbfENFUyzH-4" target="8lyfMo7Ee5nbfENFUyzH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lyfMo7Ee5nbfENFUyzH-4" target="8lyfMo7Ee5nbfENFUyzH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-4" value="PP: Eu quero..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="330" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lyfMo7Ee5nbfENFUyzH-6" target="8lyfMo7Ee5nbfENFUyzH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-6" value="PP tem €" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="500" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lyfMo7Ee5nbfENFUyzH-8" target="8lyfMo7Ee5nbfENFUyzH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-8" value="PP não tem €" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="500" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lyfMo7Ee5nbfENFUyzH-10" target="8lyfMo7Ee5nbfENFUyzH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-10" value="Foi um prazer fazer negocio contigo aqui tens, sempre que precisares vem falar com o tio Carlos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-12" value="+Drogas -€" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-14" value="Perdoa me se peço demais mas este é o preço que eu faço desculpa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="650" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lyfMo7Ee5nbfENFUyzH-18" target="8lyfMo7Ee5nbfENFUyzH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-18" value="PP insulta o dealer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="330" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lyfMo7Ee5nbfENFUyzH-21" target="8lyfMo7Ee5nbfENFUyzH-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-21" value="PP: Olha me este bonceo parece que queres ir ter com os anjinhos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="480" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-23" value="Dealer: Estás a ser muito desagradavel peço te que saias daqui" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="630" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lyfMo7Ee5nbfENFUyzH-25" target="8lyfMo7Ee5nbfENFUyzH-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-25" value="PP rouba o dealer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="330" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lyfMo7Ee5nbfENFUyzH-27" target="8lyfMo7Ee5nbfENFUyzH-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-27" value="PP: Passa mas é para cá tudo que tens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="480" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lyfMo7Ee5nbfENFUyzH-29" target="8lyfMo7Ee5nbfENFUyzH-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-29" value="Dealer: Aí por favor não faças mal ao tio Carlos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="630" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyfMo7Ee5nbfENFUyzH-31" value="+€ +drogas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="780" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
