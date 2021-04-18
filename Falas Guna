@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T17:57:51.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="F7gvqHNwfEUdf0oTDHC6" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-18T20:08:58.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="HmwGmw8-5Uy60vZipg2J" version="14.6.1" type="github">
   <diagram id="y88CCfdxZ3B9EujdUcBt" name="Page-1">
-    <mxGraphModel dx="3332" dy="2576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="1968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,12 +26,19 @@
           <mxGeometry x="595" y="-1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="638LG14LV3fgQHKUxflw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="638LG14LV3fgQHKUxflw-6" target="638LG14LV3fgQHKUxflw-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="-870" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="638LG14LV3fgQHKUxflw-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="638LG14LV3fgQHKUxflw-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-130" y="-780" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="638LG14LV3fgQHKUxflw-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="638LG14LV3fgQHKUxflw-6" target="638LG14LV3fgQHKUxflw-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="638LG14LV3fgQHKUxflw-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Escolhas&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="-920" width="120" height="60" as="geometry" />
@@ -240,6 +247,27 @@
         </mxCell>
         <mxCell id="638LG14LV3fgQHKUxflw-75" value="&lt;font style=&quot;font-size: 15px&quot;&gt;-€&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="638LG14LV3fgQHKUxflw-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="638LG14LV3fgQHKUxflw-77" target="638LG14LV3fgQHKUxflw-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="638LG14LV3fgQHKUxflw-77" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Compar a arma&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="-790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="638LG14LV3fgQHKUxflw-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="638LG14LV3fgQHKUxflw-79" target="638LG14LV3fgQHKUxflw-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="638LG14LV3fgQHKUxflw-79" value="&lt;font style=&quot;font-size: 15px&quot;&gt;PP: E que tal me dares essa arma? podemos fazer um bom negocio os 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="-650" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="638LG14LV3fgQHKUxflw-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="638LG14LV3fgQHKUxflw-81" target="638LG14LV3fgQHKUxflw-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="638LG14LV3fgQHKUxflw-81" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Guna: Bem é impossivel recusar este negocio irmão força nisso.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="-460" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="638LG14LV3fgQHKUxflw-83" value="&lt;span style=&quot;font-size: 15px&quot;&gt;+arma&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="-270" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
