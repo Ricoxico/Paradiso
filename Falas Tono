@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T17:58:49.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" version="14.6.1" etag="lxL74Pd0Jd_kdIwr_tPy" type="github"><diagram id="CmpFnxPh7Teqznxv9rn2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-18T19:12:49.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="DvkFi3rBfY8BoqanySLA" version="14.6.1" type="github">
+  <diagram id="CmpFnxPh7Teqznxv9rn2" name="Page-1">
+    <mxGraphModel dx="2091" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-1" target="8NObH_SKtU-RBRFg98Fc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-1" value="Tono" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-2" target="8NObH_SKtU-RBRFg98Fc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-2" target="8NObH_SKtU-RBRFg98Fc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-2" value="Tono: Então que te posso servir hoje?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-4" target="8NObH_SKtU-RBRFg98Fc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-4" target="8NObH_SKtU-RBRFg98Fc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-4" value="PP escolhe bebida" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-6" target="8NObH_SKtU-RBRFg98Fc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-6" value="Tem €" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-9" target="8NObH_SKtU-RBRFg98Fc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-9" value="Não tem €" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-11" target="8NObH_SKtU-RBRFg98Fc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-11" value="Tono: Aqui tens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-13" value="-€" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-15" value="Tono: Lá por ser anão a mim nada me passa despercebido. Vais levar um exerceto de porrada que tu vais aprender a não me querer enganar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="300" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-17" target="8NObH_SKtU-RBRFg98Fc-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-17" target="8NObH_SKtU-RBRFg98Fc-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-17" value="PP escolhe comprar o jogo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-19" target="8NObH_SKtU-RBRFg98Fc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-19" value="PP tem €&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-21" target="8NObH_SKtU-RBRFg98Fc-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-21" value="Tono: Bem rapaz vejo que estas mesmo empenhado em ficar com o jogo, bem aqui o tens espero que te sirva de algo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="580" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8NObH_SKtU-RBRFg98Fc-23" target="8NObH_SKtU-RBRFg98Fc-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-23" value="PP não tem €" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-25" value="Tono: Oh rapaz queres me fazer perder tempo ? Se realmente queres tanto o jogo vais ter de pagar, nada nesta vida é de graça" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="440" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8NObH_SKtU-RBRFg98Fc-29" value="Final 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="760" width="120" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
