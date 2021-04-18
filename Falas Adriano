@@ -1,1 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T19:14:43.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" version="14.6.1" etag="rrYZn739U3rW275DEvzn" type="github"><diagram id="qxpN7hj48_7yVTW5413H">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-18T19:41:41.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="53YML3JBj3wPqjUvhqgo" version="14.6.1" type="github">
+  <diagram id="qxpN7hj48_7yVTW5413H" name="Page-1">
+    <mxGraphModel dx="2918" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-1" target="TgX3pg_D6JrwRvhppDd1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Adriano&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-2" target="TgX3pg_D6JrwRvhppDd1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Mal o player começa o jogo o macaco avisa-o&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-4" target="TgX3pg_D6JrwRvhppDd1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Monkey: Olá rapaz és novo por estas bandas, é um prazer em te conhecer, vou te dar uma dica para começares a tua jornada,parece me que tens € suficente para comprares drogas, talvez devesses aproveitar essa oportunidade para ganhares algum € se queres mesmo comprar o jogo.&lt;br&gt;&lt;br&gt;Podes me consultar sempre que quiseres e darei te um pouco do meu conhecimento, mas da proxima vez nao será de graça. Podes me encontrar no jardim&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="230" width="275" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Macaco: A morte não é nada para nós,pois, quando existimos, não existe a morte, e quando existe a mort, não existimos mais.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="850" width="275" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-9" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Falas&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314.5" y="550" width="222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-11" target="TgX3pg_D6JrwRvhppDd1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-11" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Fala 1&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="710" width="222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-14" target="TgX3pg_D6JrwRvhppDd1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-14" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Fala 2&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="710" width="222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-16" value="&lt;font style=&quot;font-size: 15px&quot;&gt;O mundo não está ameaçado pelas pessoas más, e sim por aquelas que permitem a maldade&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="890" width="222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-18" target="TgX3pg_D6JrwRvhppDd1-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-18" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Fala 3&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="710" width="222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-20" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Tem cuidado com o que fazes, aqui a policia ve tudo mesmo que não pareça eles sabem o que andas a fazer&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="890" width="222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-23" target="TgX3pg_D6JrwRvhppDd1-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-23" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Fala 4&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="710" width="222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-25" target="TgX3pg_D6JrwRvhppDd1-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-25" value="Acontece quando viola a velha 1x" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="890" width="222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-28" value="Diz me tens algum probelma? Violas uma senhora idosa... Não tens qualquer noção de moral?... Sei que estás a jogar isto para te divertir mas não achas que passaste dos limites?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1070" width="222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-36" target="TgX3pg_D6JrwRvhppDd1-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-36" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Fala 5&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="710" width="222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-38" target="TgX3pg_D6JrwRvhppDd1-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-38" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Acontece quando viola a velha 2x&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="890" width="222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-40" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Foda-se lá por isto ser um jogo não quer dizer que possas fazer tudo aquilo que te apetece, não tens qualquer tipo de sentimos pelas pessoas? E não me venhas que&amp;nbsp; ela é só uma personagem de um jogo. Sinceramente...&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1070" width="222" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-44" target="TgX3pg_D6JrwRvhppDd1-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-44" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Fala 6&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="710" width="222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-47" value="PP fode com a Dom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="890" width="222" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
