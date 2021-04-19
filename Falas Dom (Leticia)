@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T18:21:31.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" version="14.6.1" etag="Eb8TKhdO5bOA2xLGfZ5X" type="github"><diagram id="AG3bz6P3-Bpi7nGD_BXT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-19T18:25:54.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="GzuPrntNv43JjnvQcHo2" version="14.6.1" type="github">
+  <diagram id="AG3bz6P3-Bpi7nGD_BXT" name="Page-1">
+    <mxGraphModel dx="1240" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oAeheCOZNCyPqI7OTGdv-1" target="oAeheCOZNCyPqI7OTGdv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-1" value="Dom Vestida normal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oAeheCOZNCyPqI7OTGdv-2" target="oAeheCOZNCyPqI7OTGdv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oAeheCOZNCyPqI7OTGdv-2" target="oAeheCOZNCyPqI7OTGdv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-2" value="Dom: Então meu querido, é novo por aqui não és? O meu nome é Leticia, não queres entrar para nos conhecermos melhor?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="170" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oAeheCOZNCyPqI7OTGdv-4" target="oAeheCOZNCyPqI7OTGdv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-4" value="PP aceita" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="360" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oAeheCOZNCyPqI7OTGdv-6" target="oAeheCOZNCyPqI7OTGdv-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-6" value="PP: Gosto da tua hospitalidade, talvez possa entrar e beber um copo." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="550" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oAeheCOZNCyPqI7OTGdv-9" target="oAeheCOZNCyPqI7OTGdv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-9" value="PP rejeita" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oAeheCOZNCyPqI7OTGdv-12" target="oAeheCOZNCyPqI7OTGdv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-12" value="PP: Olha me esta puta deste traveco, achas que já não conheço os da tua laia?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="550" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oAeheCOZNCyPqI7OTGdv-14" target="oAeheCOZNCyPqI7OTGdv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-14" value="Após rejeitar é levadoi para o quarto&amp;nbsp;&lt;br&gt;Dom vestida de Dom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="740" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oAeheCOZNCyPqI7OTGdv-16" target="oAeheCOZNCyPqI7OTGdv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-16" value="Então vamos ver quem é a puta agora." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="930" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oAeheCOZNCyPqI7OTGdv-18" target="oAeheCOZNCyPqI7OTGdv-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-18" value="Entra Reginaldo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1120" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-20" value="Game Over" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1310" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oAeheCOZNCyPqI7OTGdv-22" value="-€" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="740" width="120" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
