@@ -1,47 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T21:18:20.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="fvK9JVU0B5Ehyvd6Pn6f" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-17T23:47:52.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="By3BtCaGS27GctO6mqd7" version="14.7.9" type="github">
   <diagram id="Nv07AE6TDZ5PUOdksxvR" name="Page-1">
-    <mxGraphModel dx="2605" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2372" dy="2562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-1" target="8s3-nBaZsnvyh5gGcRo1-20">
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-1" target="8s3-nBaZsnvyh5gGcRo1-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-1" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Policia&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-1" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Agente Nuninho&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-2" target="8s3-nBaZsnvyh5gGcRo1-12">
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-2" target="8s3-nBaZsnvyh5gGcRo1-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yr3-D-OrOu3Ua3agjOdY-2" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Dia&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-4" target="Yr3-D-OrOu3Ua3agjOdY-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="262.5" y="1220" as="sourcePoint" />
+            <mxPoint x="-87.5" y="1220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-4" target="Yr3-D-OrOu3Ua3agjOdY-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="Yr3-D-OrOu3Ua3agjOdY-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="322.5" y="1250" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-4" target="8s3-nBaZsnvyh5gGcRo1-41">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="382.5" y="1220" as="sourcePoint" />
+            <mxPoint x="782.5" y="1220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Yr3-D-OrOu3Ua3agjOdY-4" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Escolhas&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="272.5" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-6" target="Yr3-D-OrOu3Ua3agjOdY-10">
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="Yr3-D-OrOu3Ua3agjOdY-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-157.5" y="1250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-6" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Insultar o Nuninho&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-217.5" y="1190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-10" target="Yr3-D-OrOu3Ua3agjOdY-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-6" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Insultar o Polica&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="1030" width="140" height="60" as="geometry" />
+        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-10" value="&lt;span id=&quot;docs-internal-guid-7edd3276-7fff-ae96-c915-01b635ff1ad0&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Rogério: mas estás a chamar fofo a quem o paneleiro?&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-275" y="1320" width="232.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="8s3-nBaZsnvyh5gGcRo1-34" target="Yr3-D-OrOu3Ua3agjOdY-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-10" value="&lt;font style=&quot;font-size: 17px&quot;&gt;PP: Olha me este paneleiro a dirigir me a palavra&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="1180" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-12" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Policia: Não gosto nada da maneira que me estás a tratar, mas os teus olhinhos não consigo resisitir, desta vez deixo passar.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-272.5" y="1430" width="225" height="120" as="geometry" />
+        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-12" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;span id=&quot;docs-internal-guid-7e1c6da0-7fff-27f0-f5da-6cd008d5e10d&quot;&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Nuninho: Sua bicha atrevida! Já foste de cana ó pinderica. Vamos relaxar os dois atras das grades.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-271.25" y="1550" width="225" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Yr3-D-OrOu3Ua3agjOdY-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-22" target="Yr3-D-OrOu3Ua3agjOdY-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -50,134 +60,132 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yr3-D-OrOu3Ua3agjOdY-22" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Vender Droga&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="262.5" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yr3-D-OrOu3Ua3agjOdY-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-24" target="Yr3-D-OrOu3Ua3agjOdY-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yr3-D-OrOu3Ua3agjOdY-24" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Com sucesso&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="1340" width="120" height="60" as="geometry" />
+          <mxGeometry x="262.5" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yr3-D-OrOu3Ua3agjOdY-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-26" target="Yr3-D-OrOu3Ua3agjOdY-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-26" value="&lt;font style=&quot;font-size: 17px&quot;&gt;PP: Olá senhor guarda, tenho aqui algo para melhorar o seu dia.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1480" width="140" height="100" as="geometry" />
+        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-26" value="&lt;span id=&quot;docs-internal-guid-55843a55-7fff-ce31-8a22-ab6327ece8d8&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Rogério: Olá senhor guarda, tenho aqui algo para melhorar o seu dia.&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="191.25" y="1640" width="262.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-28" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Policia:UI,eu e tu juntinhos a tomar disso vai haver festa. Ladys night&lt;br&gt;&lt;br&gt;+€ -Wanted lvl&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="232.5" y="1640" width="175" height="140" as="geometry" />
+        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-28" value="&lt;span id=&quot;docs-internal-guid-0248c4f4-7fff-a7a8-ba04-3ed14d957af0&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Nuninho: Ui, eu e tu juntinhos vai haver festa. ladies night.&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="207.5" y="1800" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Yr3-D-OrOu3Ua3agjOdY-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-30" target="Yr3-D-OrOu3Ua3agjOdY-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yr3-D-OrOu3Ua3agjOdY-30" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Sem Sucesso&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="1340" width="120" height="60" as="geometry" />
+          <mxGeometry x="502.5" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-32" target="Yr3-D-OrOu3Ua3agjOdY-34" edge="1">
+        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-32" value="&lt;span id=&quot;docs-internal-guid-cfb04063-7fff-02cb-bad0-f4643d3f3cfd&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Nuninho: Meow… És muito lindo mas ignorante. Estás a tentar vender me drogas?&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="492.5" y="1680" width="197.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8s3-nBaZsnvyh5gGcRo1-6" target="8s3-nBaZsnvyh5gGcRo1-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-32" value="&lt;font style=&quot;font-size: 17px&quot;&gt;PP: Olá senhor guarda, tenho aqui algo para melhorar o seu dia.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="1520" width="140" height="110" as="geometry" />
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-6" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Noite&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-34" target="Yr3-D-OrOu3Ua3agjOdY-37" edge="1">
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-12" target="M4W5yTiOgMGdZAyOzjPR-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-34" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Policia: Tu és tão lindo mas tão ignorante, estás mesmo a tentar vender me drogas?&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="1700" width="140" height="160" as="geometry" />
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-12" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Rogério: Bom dia Senhor Guarda!&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-5" y="720" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-37" target="8s3-nBaZsnvyh5gGcRo1-3">
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-15" target="M4W5yTiOgMGdZAyOzjPR-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yr3-D-OrOu3Ua3agjOdY-37" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Preso&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="1980" width="120" height="70" as="geometry" />
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-15" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Rogério: Boa noite senhor guarda!&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="485" y="695" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-3" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Game Over&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="2160" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-6" target="8s3-nBaZsnvyh5gGcRo1-15">
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-20" target="M4W5yTiOgMGdZAyOzjPR-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-6" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Noite&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="690" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-12" target="Yr3-D-OrOu3Ua3agjOdY-4">
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-20" target="M4W5yTiOgMGdZAyOzjPR-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-12" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Policia: Olá bom dia seu fofo.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="65" y="840" width="130" height="80" as="geometry" />
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-20" value="&lt;font style=&quot;font-size: 17px&quot;&gt;1 Interação&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-15" target="Yr3-D-OrOu3Ua3agjOdY-4">
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8s3-nBaZsnvyh5gGcRo1-24" target="8s3-nBaZsnvyh5gGcRo1-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-24" target="M4W5yTiOgMGdZAyOzjPR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-24" value="&lt;span id=&quot;docs-internal-guid-75f1835c-7fff-5f0c-90f4-7caa672e5012&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;Rogério: bom dia senhor guarda.&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="160" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8s3-nBaZsnvyh5gGcRo1-26" target="8s3-nBaZsnvyh5gGcRo1-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-26" value="&lt;span id=&quot;docs-internal-guid-a8bd9602-7fff-7737-5081-e2b400ead5a7&quot;&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Nuninho: Uma nova cara por aqui. há muito tempo que não via uma cara tão linda. se estiveres aflito vem ter comigo xuxu.&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-195" y="310" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8s3-nBaZsnvyh5gGcRo1-28" target="Yr3-D-OrOu3Ua3agjOdY-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8s3-nBaZsnvyh5gGcRo1-28" target="8s3-nBaZsnvyh5gGcRo1-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-28" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Interação seguinte&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="480" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="8s3-nBaZsnvyh5gGcRo1-43" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="320" y="880" />
-            </Array>
+            <mxPoint x="842.5" y="1250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-15" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Policia: Olá boa noite fofo, cuidado que a esta hora ainda te fazem mal. não quero perder esses teus lindos olhos.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="830" width="190" height="130" as="geometry" />
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-41" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Cumprimentar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="782.5" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-20" target="8s3-nBaZsnvyh5gGcRo1-24">
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8s3-nBaZsnvyh5gGcRo1-43" target="8s3-nBaZsnvyh5gGcRo1-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-20" value="&lt;font style=&quot;font-size: 17px&quot;&gt;1 Interação&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-43" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Rogério: Está tudo bem senhor guarda?&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="767.5" y="1330" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-24" target="8s3-nBaZsnvyh5gGcRo1-26">
+        <mxCell id="8s3-nBaZsnvyh5gGcRo1-45" value="&lt;span id=&quot;docs-internal-guid-657efdf6-7fff-2dce-ae9d-5e24d1cefff6&quot;&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Nuninhio: Oi xuxo. tudo em oprdem meu querido. a tua camisa! adorooooooo…&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="721.25" y="1510" width="242.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-7" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Dia&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M4W5yTiOgMGdZAyOzjPR-9" target="M4W5yTiOgMGdZAyOzjPR-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-24" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Policia: Uma cara nova por aqui, já há muito tempo que não via uma cara tão linda, se algo te acontecer vem logo ter comigo&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="200" width="320" height="100" as="geometry" />
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-9" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Noite&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-26" target="8s3-nBaZsnvyh5gGcRo1-28">
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M4W5yTiOgMGdZAyOzjPR-12" target="M4W5yTiOgMGdZAyOzjPR-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-26" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Interação seguinte&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="340" width="220" height="100" as="geometry" />
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-12" value="&lt;span id=&quot;docs-internal-guid-dd9a0157-7fff-969d-ca33-4b3cdf493b3c&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Rogério: Boa noite senhor guarda&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="165" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-28" target="Yr3-D-OrOu3Ua3agjOdY-2">
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M4W5yTiOgMGdZAyOzjPR-15" target="8s3-nBaZsnvyh5gGcRo1-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-28" target="8s3-nBaZsnvyh5gGcRo1-6">
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-15" value="&lt;span id=&quot;docs-internal-guid-dd9a0157-7fff-969d-ca33-4b3cdf493b3c&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span id=&quot;docs-internal-guid-c50e771e-7fff-0b75-218f-d9ed02d434a8&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;Agente Nuninho: uma nova cara por aqui. há muito tempo que não via uma cara tão linda. se estiveres aflito vem ter comigo xuxu.&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M4W5yTiOgMGdZAyOzjPR-18" target="Yr3-D-OrOu3Ua3agjOdY-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-28" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Interação seguinte&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="490" width="220" height="100" as="geometry" />
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-18" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Nuninho:&amp;nbsp;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-bf1eb263-7fff-dc9c-77cc-72ad31e0c120&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;ola bom dia meu xuxu&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-42.5" y="870" width="205" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-34" target="8s3-nBaZsnvyh5gGcRo1-35">
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M4W5yTiOgMGdZAyOzjPR-20" target="Yr3-D-OrOu3Ua3agjOdY-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-35" target="8s3-nBaZsnvyh5gGcRo1-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-35" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Caso o Wanted Level seja 5&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1320" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-38" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Policia: Meu caralho vais já preso e vais ver o tempinho delicioso que vamos passar juntos&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1450" width="170" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-34" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Caso o Wanted level seja &amp;lt; 5&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-225" y="1320" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="Yr3-D-OrOu3Ua3agjOdY-10" target="8s3-nBaZsnvyh5gGcRo1-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-160" y="1270" as="sourcePoint" />
-            <mxPoint x="-70" y="1420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-41" target="8s3-nBaZsnvyh5gGcRo1-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-41" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Cumprimentar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1030" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8s3-nBaZsnvyh5gGcRo1-43" target="8s3-nBaZsnvyh5gGcRo1-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-43" value="&lt;font style=&quot;font-size: 17px&quot;&gt;PP: Olá sr polica é sempre um prazer&amp;nbsp;vê lo por aqui&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="765" y="1170" width="150" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="8s3-nBaZsnvyh5gGcRo1-45" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Policia: Aí que tu és tão fofo, até me fazes corar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="765" y="1350" width="150" height="100" as="geometry" />
+        <mxCell id="M4W5yTiOgMGdZAyOzjPR-20" value="&lt;span id=&quot;docs-internal-guid-a7846714-7fff-7d92-22f6-03266d917095&quot;&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Nuninho: Olá boa noite xuxu.Cuiddado que a esta hora ainda te fazem mal. não quero perder o meu xuxuzinho.&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="880" width="255" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
