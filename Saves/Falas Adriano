@@ -1,145 +1,155 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T20:03:47.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="3bPuVuXC4JrnoLhMR3d9" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T22:12:23.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="2kFADNqJN_2PBJqtiqBV" version="14.8.0" type="github">
   <diagram id="qxpN7hj48_7yVTW5413H" name="Page-1">
-    <mxGraphModel dx="2918" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3365" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-1" target="TgX3pg_D6JrwRvhppDd1-2">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TgX3pg_D6JrwRvhppDd1-1" target="TgX3pg_D6JrwRvhppDd1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Adriano&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Adriano&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-2" target="TgX3pg_D6JrwRvhppDd1-4">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TgX3pg_D6JrwRvhppDd1-2" target="TgX3pg_D6JrwRvhppDd1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Mal o player começa o jogo o macaco avisa-o&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;1 Interação&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365.5" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-4" target="TgX3pg_D6JrwRvhppDd1-9">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TgX3pg_D6JrwRvhppDd1-4" target="TgX3pg_D6JrwRvhppDd1-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Monkey: Olá rapaz és novo por estas bandas, é um prazer em te conhecer, vou te dar uma dica para começares a tua jornada,parece me que tens € suficente para comprares drogas, talvez devesses aproveitar essa oportunidade para ganhares algum € se queres mesmo comprar o jogo.&lt;br&gt;&lt;br&gt;Podes me consultar sempre que quiseres e darei te um pouco do meu conhecimento, mas da proxima vez nao será de graça. Podes me encontrar no jardim&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Adriano: Bem vindo ao Paradise Café: A Renascença. Ao comprar e vender drogas, roubar e violar idosas, enriqueces a pouco e pouco, mas cuidado por onde andas, que a bófia não está para tangas, e há quem goste do espeto no porco. Boa sorte Rogério.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="288" y="230" width="275" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Macaco: A morte não é nada para nós,pois, quando existimos, não existe a morte, e quando existe a mort, não existimos mais.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-6" value="&lt;font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&quot;Ai, minha bananinha. O meu amor por ti é como a inocência de José Figueiras no 11 de Setembro: eterno e inquestionável.&quot;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="288" y="850" width="275" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-11">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-14">
+        <mxCell id="87jVqpd9rHJodZmre4iC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="101" y="640" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-23">
+        <mxCell id="87jVqpd9rHJodZmre4iC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-36">
+        <mxCell id="87jVqpd9rHJodZmre4iC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-219" y="580" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-54">
+        <mxCell id="87jVqpd9rHJodZmre4iC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-9" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Falas&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="87jVqpd9rHJodZmre4iC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="87jVqpd9rHJodZmre4iC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87jVqpd9rHJodZmre4iC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="87jVqpd9rHJodZmre4iC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87jVqpd9rHJodZmre4iC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87jVqpd9rHJodZmre4iC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-9" target="TgX3pg_D6JrwRvhppDd1-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-9" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Falas&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="314.5" y="550" width="222" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-11" target="TgX3pg_D6JrwRvhppDd1-6">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TgX3pg_D6JrwRvhppDd1-11" target="TgX3pg_D6JrwRvhppDd1-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-11" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Fala 1&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-11" value="&lt;font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Fala&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="314" y="710" width="222" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-14" target="TgX3pg_D6JrwRvhppDd1-16">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TgX3pg_D6JrwRvhppDd1-14" target="TgX3pg_D6JrwRvhppDd1-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-14" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Fala 2&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="710" width="222" height="100" as="geometry" />
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-14" value="&lt;font&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;Fala&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="628" y="710" width="222" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-16" value="&lt;font style=&quot;font-size: 15px&quot;&gt;O mundo não está ameaçado pelas pessoas más, e sim por aquelas que permitem a maldade&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="890" width="222" height="100" as="geometry" />
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-16" value="&lt;font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&quot;O mundo não está ameaçado pelas pessoas más, e sim por aquelas que permitem a maldade.&quot;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="628" y="860" width="222" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-18" target="TgX3pg_D6JrwRvhppDd1-20">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TgX3pg_D6JrwRvhppDd1-18" target="TgX3pg_D6JrwRvhppDd1-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-18" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Fala 3&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="710" width="222" height="100" as="geometry" />
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-18" value="&lt;font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Fala&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="710" width="222" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-20" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Tem cuidado com o que fazes, aqui a policia ve tudo mesmo que não pareça eles sabem o que andas a fazer&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="890" width="222" height="100" as="geometry" />
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-20" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&quot;Há fogo, há acidente. Chamem o 112 ou o 911, nine one one. Emergency. Chamem o Quim da sirene dos bombeiros. O Quim bombeiro, quim bombeirinho. Buzzer Fireman Kime. AHAAAAAAAAH! AHAAAAAAAA!&quot;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="-78.5" y="890" width="319" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-23" target="TgX3pg_D6JrwRvhppDd1-25">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TgX3pg_D6JrwRvhppDd1-23" target="TgX3pg_D6JrwRvhppDd1-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-23" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Fala 4&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-23" value="&lt;font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Fala&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="710" width="222" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-25" target="TgX3pg_D6JrwRvhppDd1-28">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-25" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&quot;A morte não é nada para nós, pois quanto existimos, não existe a morte, e quando existe a morte, não existimos mais.&quot;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="880" width="222" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TgX3pg_D6JrwRvhppDd1-36" target="TgX3pg_D6JrwRvhppDd1-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-25" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Acontece quando viola a velha 1x&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="890" width="222" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-28" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Diz me tens algum probelma? Violas uma senhora idosa... Não tens qualquer noção de moral?... Sei que estás a jogar isto para te divertir mas não achas que passaste dos limites?&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1070" width="222" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-36" target="TgX3pg_D6JrwRvhppDd1-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-36" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Fala 5&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-36" value="&lt;font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Fala&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1260" y="710" width="222" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-38" target="TgX3pg_D6JrwRvhppDd1-40">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-38" value="&lt;font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&quot;Muitos não sabem propriamente distinguir a originalidade da excentricidade: uma caracteriza o génio, outra manifesta o louco.&quot;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1260" y="890" width="222" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TgX3pg_D6JrwRvhppDd1-44" target="TgX3pg_D6JrwRvhppDd1-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-38" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Acontece quando viola a velha 2x&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="890" width="222" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-40" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Foda-se lá por isto ser um jogo não quer dizer que possas fazer tudo aquilo que te apetece, não tens qualquer tipo de sentimos pelas pessoas? E não me venhas que&amp;nbsp; ela é só uma personagem de um jogo. Sinceramente...&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="1070" width="222" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-44" target="TgX3pg_D6JrwRvhppDd1-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-44" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Fala 6&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-44" value="&lt;font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Fala&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="710" width="222" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-47" value="&lt;font style=&quot;font-size: 15px&quot;&gt;PP fode com a Dom&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="890" width="222" height="100" as="geometry" />
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-47" value="&lt;font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&quot;O Inferno está vazio e todos os demônios estão aqui.&quot;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-330" y="890" width="222" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-54" target="TgX3pg_D6JrwRvhppDd1-56">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TgX3pg_D6JrwRvhppDd1-54" target="TgX3pg_D6JrwRvhppDd1-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-54" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Fala 7&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="680" width="222" height="100" as="geometry" />
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-54" value="&lt;font&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Fala&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="710" width="222" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-56" target="TgX3pg_D6JrwRvhppDd1-58">
+        <mxCell id="TgX3pg_D6JrwRvhppDd1-56" value="&lt;font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&quot;Assim é que eu gosto. Trabalhando e relaxando!&quot;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="910" width="222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="87jVqpd9rHJodZmre4iC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="87jVqpd9rHJodZmre4iC-3" target="87jVqpd9rHJodZmre4iC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-56" value="&lt;font style=&quot;font-size: 15px&quot;&gt;PP tenta roubar o macaco&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="860" width="222" height="100" as="geometry" />
+        <mxCell id="87jVqpd9rHJodZmre4iC-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Fala&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="710" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgX3pg_D6JrwRvhppDd1-58" target="TgX3pg_D6JrwRvhppDd1-60">
+        <mxCell id="87jVqpd9rHJodZmre4iC-4" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&quot;Por causa do Tio Carlos, já não se vê aviões em Évora.&quot;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="890" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="87jVqpd9rHJodZmre4iC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="87jVqpd9rHJodZmre4iC-7" target="87jVqpd9rHJodZmre4iC-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-58" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Macaco: O que queres fazer com isso? Eu não tenho nada de valor por isso só estas a perder o teu tempo&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="1040" width="222" height="100" as="geometry" />
+        <mxCell id="87jVqpd9rHJodZmre4iC-7" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Fala&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="700" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TgX3pg_D6JrwRvhppDd1-60" value="&lt;font style=&quot;font-size: 15px&quot;&gt;+Wanted level&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="1220" width="222" height="100" as="geometry" />
+        <mxCell id="87jVqpd9rHJodZmre4iC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="87jVqpd9rHJodZmre4iC-8" target="87jVqpd9rHJodZmre4iC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87jVqpd9rHJodZmre4iC-8" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&quot;O Teorema do macaco infinito afirma que um macaco digitando aleatoriamente em um teclado por um intervalo de tempo infinito irá quase certamente criar um texto qualquer escolhido, como por exemplo a obra completa de William Shakespeare.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="870" width="360" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="87jVqpd9rHJodZmre4iC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="87jVqpd9rHJodZmre4iC-11" target="87jVqpd9rHJodZmre4iC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87jVqpd9rHJodZmre4iC-11" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&quot;Pode-se também pensar que, com infinitos macacos infinitos, algum deles irá quase certamente criar um texto qualquer escolhido como primeiro texto a ser digitado.&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="870" width="360" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="87jVqpd9rHJodZmre4iC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="87jVqpd9rHJodZmre4iC-13" target="87jVqpd9rHJodZmre4iC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87jVqpd9rHJodZmre4iC-13" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&quot;Neste contexto, &quot;quase certamente&quot; é um termo matemático com um significado preciso, enquanto que o &quot;macaco&quot; é apenas uma imagem, não um símio verdadeiro; trata-se de uma metáfora para um dispositivo abstracto que produza uma sequência aleatória de letras ad infinitum. O teorema ilustra os perigos do raciocínio sobre o infinito ao imaginar um número muito grande mas finito, e vice versa. A idade do universo é diminuída relativamente pelo tempo que levaria a um macaco para obter um texto igual ao Hamlet, de modo que num sentido físico tal nunca aconteceria.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2152.5" y="1160" width="455" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="87jVqpd9rHJodZmre4iC-15" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&quot;Variantes do teorema incluem múltiplos dispositivos de escrita, e o texto pode variar entre uma biblioteca inteira e uma simples e pequena frase. O problema apareceu pela primeira vez no artigo chamado Mécanique Statistique et Irréversibilité do matemático Émile Borel no ano de 1913.&quot;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1160" width="455" height="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
