@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T21:54:47.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="jYxULNuZ-5e9AEOHrCOY" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T21:58:21.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="-MJHOHD9dUwUXC5ZyqTt" version="14.8.0" type="github">
   <diagram id="CmpFnxPh7Teqznxv9rn2" name="Page-1">
-    <mxGraphModel dx="10750" dy="5253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5005" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,103 +8,103 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Sr Tono&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-2" target="2f2jLvi26N4OGCotUbdY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;1 Interação&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-4" target="2f2jLvi26N4OGCotUbdY-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rogério:&amp;nbsp;Olá sou o Rogério! Preciso de uma informação sobre um jogo. Tudo indica que posso encontrar o que preciso aqui.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="260" width="270" height="100" as="geometry" />
+          <mxGeometry x="45" y="270" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-6" target="2f2jLvi26N4OGCotUbdY-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Sr Tono:&amp;nbsp;Tono! Eu sei o que procuras. Deves estar a falar do jogo &quot;Paradise Café&quot;. Sim, tem o mesmo nome que este estabelecimento.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="440" width="270" height="100" as="geometry" />
+          <mxGeometry x="470" y="270" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-8" target="2f2jLvi26N4OGCotUbdY-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-8" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rogério:&amp;nbsp;O jogo já eu tenho, eu procuro informações sobre o criador...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="620" width="270" height="100" as="geometry" />
+          <mxGeometry x="470" y="440" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-10" target="2f2jLvi26N4OGCotUbdY-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-10" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Sr Tono:&amp;nbsp;Esse jogo é falso. É uma cópia barata do original. Eu sei isso porque tenho o verdadeiro a apanhar pó numa prateleira.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="55" y="790" width="270" height="100" as="geometry" />
+          <mxGeometry x="20" y="440" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-12" target="2f2jLvi26N4OGCotUbdY-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-12" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Sr Tono:&amp;nbsp;O jogo foi feito aqui e durante uns tempos foi boa publicidade para o negócio. Contudo, não durou muito tempo. Hoje em dia já ninguém se lembra do que aconteceu.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="980" width="270" height="100" as="geometry" />
+          <mxGeometry x="20" y="640" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-14" target="2f2jLvi26N4OGCotUbdY-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-14" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Sr Tono:&amp;nbsp;O jogo foi feito aqui e durante uns tempos foi boa publicidade para o negócio. Contudo, não durou muito tempo. Hoje em dia já ninguém se lembra do que aconteceu.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="1160" width="270" height="100" as="geometry" />
+          <mxGeometry x="490" y="640" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-16" target="2f2jLvi26N4OGCotUbdY-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-16" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Sr Tono:&amp;nbsp;O criador dava-se a conhecer pelo nome de &quot;Damatta&quot;. Era um indivíduo misterioso! Após tudo por que passámos, partiu e deixou apenas a cassete original com uma carta, e assegurou que alguém apareceria um dia em busca de respostas.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="1310" width="270" height="140" as="geometry" />
+          <mxGeometry x="490" y="810" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-18" target="2f2jLvi26N4OGCotUbdY-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-18" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Sr Tono:&amp;nbsp;Já tive para vender isto imensas vezes, mas tinha um pressentimento que um dia irias aparecer. Tem um senão, o negócio está mau e eu estou a precisar de dinheiro, por isso se quiseres levar o jogo, vai te ficar caro.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="55" y="1530" width="270" height="140" as="geometry" />
+          <mxGeometry x="-10" y="810" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-20" target="2f2jLvi26N4OGCotUbdY-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-20" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rogério:&amp;nbsp;Não estava à espera disto. De quanto é que estamos a falar exatamente?&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="1750" width="270" height="140" as="geometry" />
+          <mxGeometry x="-10" y="1070" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-22" target="2f2jLvi26N4OGCotUbdY-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-22" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Sr Tono:&amp;nbsp;Depois de todo o trabalho que tive e só porque me quero livrar disto, fica 700 euros. Olha que está barato!&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="1970" width="270" height="140" as="geometry" />
+          <mxGeometry x="510" y="1070" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-24" target="2f2jLvi26N4OGCotUbdY-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-24" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rogério:&amp;nbsp;Está bem, não há muito que possa fazer. Vou pensar no assunto e depois digo alguma coisa.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="2190" width="270" height="140" as="geometry" />
+          <mxGeometry x="510" y="1380" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-26" target="2f2jLvi26N4OGCotUbdY-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-26" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rogério:&amp;nbsp;Está bem, não há muito que possa fazer. Vou pensar no assunto e depois digo alguma coisa.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="95" y="2410" width="270" height="140" as="geometry" />
+          <mxGeometry x="10" y="1380" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-28" target="2f2jLvi26N4OGCotUbdY-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-28" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Interações Seguintes&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="2630" width="270" height="140" as="geometry" />
+          <mxGeometry x="10" y="1640" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-30" target="2f2jLvi26N4OGCotUbdY-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-30" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Rogério:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Olá Senhor Tono!&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="2850" width="270" height="140" as="geometry" />
+          <mxGeometry x="510" y="1625" width="270" height="170" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-32" target="2f2jLvi26N4OGCotUbdY-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-32" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Sr Tono: Então já mudaste de ideias? O que vai ser meu caro?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="3070" width="270" height="140" as="geometry" />
+          <mxGeometry x="250" y="1920" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-34" target="2f2jLvi26N4OGCotUbdY-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-34" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Escolhas&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="3290" width="270" height="140" as="geometry" />
+          <mxGeometry x="250" y="2150" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-36" target="2f2jLvi26N4OGCotUbdY-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -122,31 +122,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-36" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Comprar Whiskey&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="3570" width="270" height="140" as="geometry" />
+          <mxGeometry x="-260" y="2150" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-38" target="2f2jLvi26N4OGCotUbdY-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-38" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Com Dinheiro&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="3790" width="270" height="140" as="geometry" />
+          <mxGeometry x="-680" y="2150" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-40" target="2f2jLvi26N4OGCotUbdY-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-40" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Sem Dinheiro&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="3790" width="270" height="140" as="geometry" />
+          <mxGeometry x="-260" y="2380" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-42" target="2f2jLvi26N4OGCotUbdY-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-42" value="&lt;span id=&quot;docs-internal-guid-abf7f325-7fff-a2a0-ed83-e607d9200c00&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Rogério: Queria um whiskey&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="4010" width="270" height="140" as="geometry" />
+          <mxGeometry x="-680" y="2460" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-44" value="&lt;span id=&quot;docs-internal-guid-abf7f325-7fff-a2a0-ed83-e607d9200c00&quot; style=&quot;font-size: 20px&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;font face=&quot;arial&quot;&gt;Sr Tono: Toma lá.&lt;/font&gt;&lt;/p&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="4230" width="270" height="140" as="geometry" />
+          <mxGeometry x="-680" y="2710" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-46" value="&lt;span id=&quot;docs-internal-guid-5ff2c32a-7fff-1a23-b5b7-b7664344de01&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Rogério: Não tenho dinheiro suficiente…&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="4010" width="270" height="140" as="geometry" />
+          <mxGeometry x="-260" y="2630" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-48" target="2f2jLvi26N4OGCotUbdY-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -155,31 +155,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-48" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Comprar o jogo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="3510" width="270" height="140" as="geometry" />
+          <mxGeometry x="250" y="2380" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-50" target="2f2jLvi26N4OGCotUbdY-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-50" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Com Dinheiro&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="3730" width="270" height="140" as="geometry" />
+          <mxGeometry x="250" y="2600" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-52" target="2f2jLvi26N4OGCotUbdY-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-52" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Sem Dinheiro&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="3730" width="270" height="140" as="geometry" />
+          <mxGeometry x="670" y="2380" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-54" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Rogério:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Não tenho dinheiro suficiente para lhe pagar. É melhor voltar mais tarde.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="3950" width="270" height="140" as="geometry" />
+          <mxGeometry x="670" y="2620" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2f2jLvi26N4OGCotUbdY-56" target="2f2jLvi26N4OGCotUbdY-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-56" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Rogério: Aqui tens o dinheiro! Agora quero o jogo como prometido.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="3950" width="270" height="140" as="geometry" />
+          <mxGeometry x="250" y="2840" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2f2jLvi26N4OGCotUbdY-58" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Sr Tono: Ainda bem que finalmente me livrei disto. Já estava a ganhar pó na prateleira.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="4170" width="270" height="140" as="geometry" />
+          <mxGeometry x="250" y="3030" width="270" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
