@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T20:28:52.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="gKpdYYzBViEm9cApqZAK" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T20:34:47.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="qepq4Nl58UC99IWx1d8O" version="14.8.0" type="github">
   <diagram id="y88CCfdxZ3B9EujdUcBt" name="Page-1">
     <mxGraphModel dx="3192" dy="2244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,22 +183,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="638LG14LV3fgQHKUxflw-77" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Compar a arma&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="-635" width="120" height="60" as="geometry" />
+          <mxGeometry x="-180" y="-635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="638LG14LV3fgQHKUxflw-82" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="638LG14LV3fgQHKUxflw-79" target="638LG14LV3fgQHKUxflw-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="638LG14LV3fgQHKUxflw-79" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rogério: Que tal essa arma por 200 paus?&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="-475" width="120" height="110" as="geometry" />
+          <mxGeometry x="-180" y="-475" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="638LG14LV3fgQHKUxflw-84" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="638LG14LV3fgQHKUxflw-81" target="638LG14LV3fgQHKUxflw-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="638LG14LV3fgQHKUxflw-81" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Guna: Ei o irmaum, taz tolo. Posh! Ke ganda preçu ó socio! Toma lá a menina, mete bala nisso&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="-315" width="120" height="150" as="geometry" />
+          <mxGeometry x="-180" y="-315" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="638LG14LV3fgQHKUxflw-83" value="&lt;span style=&quot;font-size: 15px&quot;&gt;+arma&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="-125" width="120" height="110" as="geometry" />
+          <mxGeometry x="-180" y="-115" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="S3QtvQ8jCPMleHssmBLU-6" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="S3QtvQ8jCPMleHssmBLU-3" target="S3QtvQ8jCPMleHssmBLU-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -224,10 +224,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S3QtvQ8jCPMleHssmBLU-11" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Compar a arma sem dinheiro&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-410" y="-635" width="120" height="60" as="geometry" />
+          <mxGeometry x="-360" y="-635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S3QtvQ8jCPMleHssmBLU-16" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rogério: Não tenho guita suficiente para comprar uma arma a este gajo&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-410" y="-500" width="120" height="150" as="geometry" />
+          <mxGeometry x="-360" y="-500" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="S3QtvQ8jCPMleHssmBLU-24" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="S3QtvQ8jCPMleHssmBLU-21" target="S3QtvQ8jCPMleHssmBLU-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
